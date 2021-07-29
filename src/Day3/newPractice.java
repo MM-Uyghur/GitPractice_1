@@ -7,6 +7,7 @@ public class newPractice {
 
         List<String> lst = new ArrayList<>();
         System.out.println("hello git");
+        System.out.println("hi new comer");
 
 
     }
